@@ -1,4 +1,4 @@
-package com.my.springboot;
+package com.my.springboot.utils;
 
 public class Result {
     /**
